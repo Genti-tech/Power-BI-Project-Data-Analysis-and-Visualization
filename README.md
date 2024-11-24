@@ -37,6 +37,32 @@ The goal was to uncover key trends and present actionable insights through inter
   - Year Founded
 - The dataset was cleaned using Power Query to handle missing values, inconsistencies, and formatting issues
 
+
+
+---
+git commit -m "C:\Users\CrownClown\OneDrive\Desktop\Sal by Role Type.PNG"
+
+This displays the salary distribution for different role types while highlighting how each contributes to the overall total.
+
+---
+"C:\Users\CrownClown\OneDrive\Desktop\sal by size role type.PNG"
+
+I use this bubble size to represent the company size and to reflect average salary.
+I combining multiple data points in a single visualization, to make comparisons intuitive.
+
+---
+"C:\Users\CrownClown\OneDrive\Desktop\sal by company and sector.PNG"
+
+I use this matrix  because is ideal for creating a tabular visualization with rows and columns, where each cell represents a salary metric.
+-----------------------------------------
+
+To achieve this, I followed these steps:
+
+Simplified the visuals by choosing clear and familiar chart types such as bar and line charts.
+I dident use slicers for easy filtering, because no need the grafic shows clearly the salary for state and company.
+Used tooltips and labels to provide additional context for the visual elements.
+Organized the report in a logical layout, starting with a summary overview and then detailed sections."
+
 ## Contact
 
 For any questions or feedback, feel free to reach out to me at:
