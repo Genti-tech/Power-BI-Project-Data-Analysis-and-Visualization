@@ -40,18 +40,32 @@ The goal was to uncover key trends and present actionable insights through inter
 
 
 ---
+mkdir images
+mv screenshot1.png images/
+git add images/
 git commit -m "C:\Users\CrownClown\OneDrive\Desktop\Sal by Role Type.PNG"
+git push
+
 
 This displays the salary distribution for different role types while highlighting how each contributes to the overall total.
 
 ---
-"C:\Users\CrownClown\OneDrive\Desktop\sal by size role type.PNG"
+mkdir images
+mv screenshot1.png images/
+git add images/
+git commit -m "C:\Users\CrownClown\OneDrive\Desktop\sal by size role type.PNG"
+git push
+
 
 I use this bubble size to represent the company size and to reflect average salary.
 I combining multiple data points in a single visualization, to make comparisons intuitive.
 
 ---
-"C:\Users\CrownClown\OneDrive\Desktop\sal by company and sector.PNG"
+mkdir images
+mv screenshot1.png images/
+git add images/
+git commit -m "C:\Users\CrownClown\OneDrive\Desktop\sal by company and sector.PNG"
+git push
 
 I use this matrix  because is ideal for creating a tabular visualization with rows and columns, where each cell represents a salary metric.
 -----------------------------------------
